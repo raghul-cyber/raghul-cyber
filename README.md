@@ -19,7 +19,7 @@
 
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&height=50&lines=Blockchain+Developer+%F0%9F%94%97;Cyber+Security+Specialist+%F0%9F%9B%A1%EF%B8%8F;Smart+Contract+Architect+%E2%9A%A1;dApp+Builder+%F0%9F%9A%80;Hackathon+Champion+%F0%9F%8F%86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&height=50&lines=Blockchain+Developer+%F0%9F%94%97;Cyber+Security+Specialist+%F0%9F%9B%A1%EF%B8%8F;Smart+Contract+Architect+%E2%9A%A1;dApp+Architect+%E2%9A%A1;Hackathon+Champion+%F0%9F%8F%86" alt="Typing SVG" />
   </a>
 
   <br>
@@ -43,7 +43,7 @@
 
 </div>
 
-⚡💥🚀════════════════════════════════════════════════════════════════💥⚡🚀
+⚡════════════════════════════════════════════════════════════════⚡
 
 ## 💻 SYSTEM_PROFILE: ~about_me
 
@@ -79,10 +79,10 @@ raghul-cyber@security-kernel:~$ check --status --current-operations
 ```
 - ⚡ **Currently Architecting**: Multi-agent systems running on decentralized infrastructure.
 - 🛡️ **Currently Auditing**: Smart contracts for reentrancy, overflow, and front-running vulnerabilities.
-- 🚀 **Organizing**: **Code of Thrones** — 24-hr national hackathon (March 2026) featuring 7 specialized engineering domains.
+- ⚔️ **Organizing**: **Code of Thrones** — 24-hr national hackathon (March 2026) featuring 7 specialized engineering domains.
 - 🎓 **Researching**: Cryptographic primitives for hardware-restricted ESP32 environments.
 
-⚡💥🚀════════════════════════════════════════════════════════════════💥⚡🚀
+⚡════════════════════════════════════════════════════════════════⚡
 
 ## ⚔️ CYBER_ARSENAL: ~skills_and_weapons
 
@@ -143,7 +143,7 @@ raghul-cyber@security-kernel:~$ load_modules --all
   </a>
 </p>
 
-⚡💥🚀════════════════════════════════════════════════════════════════💥⚡🚀
+⚡════════════════════════════════════════════════════════════════⚡
 
 ## 🏆 TROPHIES: ~achievements_matrix
 
@@ -151,7 +151,7 @@ raghul-cyber@security-kernel:~$ load_modules --all
   <img src="https://github-profile-trophy.vercel.app/?username=raghul-cyber&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%" alt="Raghul's Profile Trophies" />
 </div>
 
-⚡💥🚀════════════════════════════════════════════════════════════════💥⚡🚀
+⚡════════════════════════════════════════════════════════════════⚡
 
 ## 🛠️ CRITICAL_PROJECTS: ~deployed_systems
 
@@ -181,11 +181,6 @@ _Next-gen cryptographic asset custody system protected by AI-driven network anom
   </tr>
 </table>
 
-<!-- Pin card fallback simulation -->
-<a href="https://github.com/raghul-cyber/aurion-conclave">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=raghul-cyber&repo=aurion-conclave&theme=radical&bg_color=0D0E15&title_color=00FFCC&text_color=FFFFFF&icon_color=FF0055&hide_border=true" alt="Aurion Conclave Pin" />
-</a>
-
 <br><br>
 
 ### 2️⃣ CivicBridge — India Civic Intelligence Platform
@@ -207,10 +202,6 @@ _Unified national dashboard aggregating government databases to yield citizen-ce
     <td>Guarantees cryptographic integrity of open civic report sheets using hash audits.</td>
   </tr>
 </table>
-
-<a href="https://github.com/raghul-cyber/CivicBridge">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=raghul-cyber&repo=CivicBridge&theme=radical&bg_color=0D0E15&title_color=00FFCC&text_color=FFFFFF&icon_color=FF0055&hide_border=true" alt="CivicBridge Pin" />
-</a>
 
 <br><br>
 
@@ -234,13 +225,9 @@ _Ultra-low latency hardware IoT system streaming real-time vitals to AWS securit
   </tr>
 </table>
 
-<a href="https://github.com/raghul-cyber/nexus-care">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=raghul-cyber&repo=nexus-care&theme=radical&bg_color=0D0E15&title_color=00FFCC&text_color=FFFFFF&icon_color=FF0055&hide_border=true" alt="Nexus Care Pin" />
-</a>
-
 </div>
 
-⚡💥🚀════════════════════════════════════════════════════════════════💥⚡🚀
+⚡════════════════════════════════════════════════════════════════⚡
 
 ## 📈 SYSTEM_STATISTICS: ~network_traffic
 
@@ -269,7 +256,7 @@ raghul-cyber@security-kernel:~$ query --metrics --user=raghul-cyber
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghul-cyber&theme=tokyo-night&bg_color=0D0E15&color=00FFCC&line=FF0055&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Raghul's Activity Graph" />
 </div>
 
-⚡💥🚀════════════════════════════════════════════════════════════════💥⚡🚀
+⚡════════════════════════════════════════════════════════════════⚡
 
 ## 📜 SECURITY_LOGS: ~hackathon_transcripts
 
@@ -284,7 +271,7 @@ raghul-cyber@security-kernel:~$ cat achievements_log.db
 - ✍️ **IEEE Editorial Contributor**
   - Authored domain-specific materials and research reviews for the **IEEE WIE Madras Section Newsletter** (Vol. 1, Issue 1), promoting diversity and depth in technology topics.
 
-⚡💥🚀════════════════════════════════════════════════════════════════💥⚡🚀
+⚡════════════════════════════════════════════════════════════════⚡
 
 ## 📡 COMM_CHANNELS: ~contact_handshake
 
