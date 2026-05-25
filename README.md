@@ -19,7 +19,7 @@
 
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&height=50&lines=Blockchain+Developer+🔗;Cyber+Security+Specialist+🛡️;Smart+Contract+Architect+⚡;dApp+Builder+🚀;Hackathon+Champion+🏆" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&height=50&lines=Blockchain+Developer+%F0%9F%94%97;Cyber+Security+Specialist+%F0%9F%9B%A1%EF%B8%8F;Smart+Contract+Architect+%E2%9A%A1;dApp+Builder+%F0%9F%9A%80;Hackathon+Champion+%F0%9F%8F%86" alt="Typing SVG" />
   </a>
 
   <br>
@@ -177,13 +177,13 @@ _Next-gen cryptographic asset custody system protected by AI-driven network anom
   </tr>
   <tr>
     <td>🏆 <b>Hackathon Recognition</b></td>
-    <td>Shortlisted &amp; presented at Graph-e-thon 3.0 (National-level Hackathon with 200+ elite teams).</td>
+    <td>Shortlisted & presented at Graph-e-thon 3.0 (National-level Hackathon with 200+ elite teams).</td>
   </tr>
 </table>
 
 <!-- Pin card fallback simulation -->
 <a href="https://github.com/raghul-cyber/aurion-conclave">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raghul-cyber&repo=aurion-conclave&theme=radical&bg_color=0D0E15&title_color=00FFCC&text_color=FFFFFF&icon_color=FF0055&hide_border=true" alt="Aurion Conclave Pin" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=raghul-cyber&repo=aurion-conclave&theme=radical&bg_color=0D0E15&title_color=00FFCC&text_color=FFFFFF&icon_color=FF0055&hide_border=true" alt="Aurion Conclave Pin" />
 </a>
 
 <br><br>
@@ -196,7 +196,7 @@ _Unified national dashboard aggregating government databases to yield citizen-ce
 <table>
   <tr>
     <td>🌐 <b>National Coverage</b></td>
-    <td>Integrates statistics and API feeds for all 28 Indian States &amp; 8 Union Territories across 88+ datasets.</td>
+    <td>Integrates statistics and API feeds for all 28 Indian States & 8 Union Territories across 88+ datasets.</td>
   </tr>
   <tr>
     <td>🎙️ <b>Multilingual Voice</b></td>
@@ -209,7 +209,7 @@ _Unified national dashboard aggregating government databases to yield citizen-ce
 </table>
 
 <a href="https://github.com/raghul-cyber/CivicBridge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raghul-cyber&repo=CivicBridge&theme=radical&bg_color=0D0E15&title_color=00FFCC&text_color=FFFFFF&icon_color=FF0055&hide_border=true" alt="CivicBridge Pin" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=raghul-cyber&repo=CivicBridge&theme=radical&bg_color=0D0E15&title_color=00FFCC&text_color=FFFFFF&icon_color=FF0055&hide_border=true" alt="CivicBridge Pin" />
 </a>
 
 <br><br>
@@ -235,7 +235,7 @@ _Ultra-low latency hardware IoT system streaming real-time vitals to AWS securit
 </table>
 
 <a href="https://github.com/raghul-cyber/nexus-care">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raghul-cyber&repo=nexus-care&theme=radical&bg_color=0D0E15&title_color=00FFCC&text_color=FFFFFF&icon_color=FF0055&hide_border=true" alt="Nexus Care Pin" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=raghul-cyber&repo=nexus-care&theme=radical&bg_color=0D0E15&title_color=00FFCC&text_color=FFFFFF&icon_color=FF0055&hide_border=true" alt="Nexus Care Pin" />
 </a>
 
 </div>
@@ -255,7 +255,7 @@ raghul-cyber@security-kernel:~$ query --metrics --user=raghul-cyber
         <img src="https://github-readme-stats.vercel.app/api?username=raghul-cyber&show_icons=true&theme=radical&hide_border=true&title_color=00FFCC&icon_color=FF0055&text_color=FFFFFF&bg_color=0D0E15" width="100%" alt="Raghul's GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghul-cyber&layout=compact&theme=radical&hide_border=true&title_color=00FFCC&text_color=FFFFFF&bg_color=0D0E15" width="100%" alt="Raghul's Language Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghul-cyber&layout=compact&theme=radical&hide_border=true&title_color=00FFCC&text_color=FFFFFF&bg_color=0D0E15" width="100%" alt="Raghul's Language Stats" />
       </td>
     </tr>
   </table>
