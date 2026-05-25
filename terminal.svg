@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%" style="background: #050508; border-radius: 12px; border: 2px solid #ff0055; box-shadow: 0 0 20px rgba(255, 0, 85, 0.3);">
+  <!-- Styles for animations -->
+  <style>
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes matrix-rain {
+      0% { transform: translateY(-450px); }
+      100% { transform: translateY(450px); }
+    }
+    @keyframes scanline {
+      0% { transform: translateY(-100%); }
+      100% { transform: translateY(100%); }
+    }
+    @keyframes glitch {
+      0% { transform: translate(0); }
+      20% { transform: translate(-2px, 2px); }
+      40% { transform: translate(-2px, -2px); }
+      60% { transform: translate(2px, 2px); }
+      80% { transform: translate(2px, -2px); }
+      100% { transform: translate(0); }
+    }
+    .cursor {
+      animation: blink 1s infinite;
+      fill: #00ffcc;
+    }
+    .text-green { fill: #39ff14; font-family: 'Courier New', monospace; font-size: 14px; text-shadow: 0 0 5px rgba(57, 255, 20, 0.7); }
+    .text-pink { fill: #ff0055; font-family: 'Courier New', monospace; font-size: 14px; text-shadow: 0 0 5px rgba(255, 0, 85, 0.7); }
+    .text-cyan { fill: #00ffcc; font-family: 'Courier New', monospace; font-size: 14px; text-shadow: 0 0 5px rgba(0, 255, 204, 0.7); }
+    .text-white { fill: #ffffff; font-family: 'Courier New', monospace; font-size: 14px; text-shadow: 0 0 5px rgba(255, 255, 255, 0.5); }
+    
+    /* Code lines animation sequence */
+    .line1 { opacity: 0; animation: showLine 0.1s forwards; animation-delay: 0.5s; }
+    .line2 { opacity: 0; animation: showLine 0.1s forwards; animation-delay: 1.5s; }
+    .line3 { opacity: 0; animation: showLine 0.1s forwards; animation-delay: 2.5s; }
+    .line4 { opacity: 0; animation: showLine 0.1s forwards; animation-delay: 3.5s; }
+    .line5 { opacity: 0; animation: showLine 0.1s forwards; animation-delay: 4.5s; }
+    .line6 { opacity: 0; animation: showLine 0.1s forwards; animation-delay: 5.5s; }
+    .line7 { opacity: 0; animation: showLine 0.1s forwards; animation-delay: 6.5s; }
+    .line8 { opacity: 0; animation: showLine 0.1s forwards; animation-delay: 7.5s; }
+    .line9 { opacity: 0; animation: showLine 0.1s forwards; animation-delay: 8.5s; }
+    .line10 { opacity: 0; animation: showLine 0.1s forwards; animation-delay: 10s; }
+    .line11 { opacity: 0; animation: showLine 0.1s forwards; animation-delay: 11s; }
+
+    @keyframes showLine {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    .matrix-col {
+      font-family: 'Courier New', monospace;
+      font-size: 10px;
+      fill: #39ff14;
+      opacity: 0.15;
+    }
+  </style>
+
+  <!-- Scanline effect -->
+  <rect x="0" y="0" width="800" height="450" fill="none" />
+  <g opacity="0.3">
+    <line x1="0" y1="0" x2="800" y2="0" stroke="#00ffcc" stroke-width="2" style="animation: scanline 8s linear infinite;" />
+  </g>
+
+  <!-- Matrix rain columns -->
+  <g class="matrix-col" style="animation: matrix-rain 12s linear infinite;">
+    <text x="30" y="50">1 0 1 0 1 1 0 1 0 1 1 0</text>
+    <text x="120" y="20">0 1 1 0 0 1 0 1 1 0 1</text>
+    <text x="210" y="80">1 1 0 1 0 1 0 1 0 0 1</text>
+    <text x="350" y="10">0 0 1 1 0 1 0 1 1 1 0</text>
+    <text x="490" y="60">1 0 1 0 0 1 1 0 1 0 1</text>
+    <text x="600" y="30">0 1 0 1 1 0 1 0 1 1 0</text>
+    <text x="710" y="90">1 1 0 0 1 0 1 1 0 1 0</text>
+  </g>
+  <g class="matrix-col" style="animation: matrix-rain 8s linear infinite; animation-delay: -3s;">
+    <text x="70" y="150">0 1 0 1 1 0 1 0 1 0 1 1 0</text>
+    <text x="180" y="120">1 0 1 0 0 1 0 1 1 0 0 1 0</text>
+    <text x="290" y="180">0 1 1 0 1 0 1 0 0 1 1 0 1</text>
+    <text x="410" y="110">1 1 0 1 0 1 0 1 1 0 1 0 0</text>
+    <text x="540" y="160">0 0 1 1 0 1 0 1 0 1 1 0 1</text>
+    <text x="660" y="130">1 0 1 0 1 1 0 1 0 0 1 0 1</text>
+    <text x="760" y="190">0 1 1 0 0 1 0 1 1 0 1 1 0</text>
+  </g>
+  <g class="matrix-col" style="animation: matrix-rain 15s linear infinite; animation-delay: -6s;">
+    <text x="50" y="300">1 0 1 0 1 1 0 1 0 1 1 0</text>
+    <text x="150" y="270">0 1 1 0 0 1 0 1 1 0 1</text>
+    <text x="250" y="330">1 1 0 1 0 1 0 1 0 0 1</text>
+    <text x="380" y="260">0 0 1 1 0 1 0 1 1 1 0</text>
+    <text x="500" y="310">1 0 1 0 0 1 1 0 1 0 1</text>
+    <text x="630" y="280">0 1 0 1 1 0 1 0 1 1 0</text>
+    <text x="730" y="340">1 1 0 0 1 0 1 1 0 1 0</text>
+  </g>
+
+  <!-- Terminal Window Chrome -->
+  <rect x="15" y="15" width="770" height="420" rx="8" fill="#0D0E15" fill-opacity="0.9" stroke="#00ffcc" stroke-width="1.5" />
+  
+  <!-- Window Header -->
+  <path d="M 15 35 L 785 35" stroke="#00ffcc" stroke-width="1.5" />
+  <circle cx="35" cy="25" r="5" fill="#ff5f56" />
+  <circle cx="50" cy="25" r="5" fill="#ffbd2e" />
+  <circle cx="65" cy="25" r="5" fill="#27c93f" />
+  <text x="400" y="29" fill="#00ffcc" font-family="'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="1">RAGHUL@SECURE-SHELL: ~</text>
+
+  <!-- Terminal Output -->
+  <g transform="translate(30, 60)">
+    <!-- Terminal Lines -->
+    <g class="line1">
+      <text x="0" y="15" class="text-cyan">raghul-cyber:~$</text>
+      <text x="130" y="15" class="text-white">init system_diagnostic.sh</text>
+    </g>
+    
+    <g class="line2">
+      <text x="0" y="35" class="text-green">[SUCCESS] Establishing secure connection to Chennai node...</text>
+    </g>
+
+    <g class="line3">
+      <text x="0" y="55" class="text-green">[SUCCESS] Identity verified: RAGHUL R C // Cybersecurity &amp; Web3 Engineer</text>
+    </g>
+
+    <g class="line4">
+      <text x="0" y="75" class="text-cyan">raghul-cyber:~$</text>
+      <text x="130" y="75" class="text-white">load --skills --blockchain --security</text>
+    </g>
+
+    <g class="line5">
+      <text x="0" y="95" class="text-pink">▶ Solidity / Rust Smart Contracts ........ [READY]</text>
+    </g>
+    
+    <g class="line6">
+      <text x="0" y="115" class="text-pink">▶ Penetration Testing &amp; Cryptography .... [READY]</text>
+    </g>
+
+    <g class="line7">
+      <text x="0" y="135" class="text-pink">▶ AI Agent Orchestration (Claude LLM) ... [READY]</text>
+    </g>
+
+    <g class="line8">
+      <text x="0" y="165" class="text-cyan">raghul-cyber:~$</text>
+      <text x="130" y="165" class="text-white">cat current_objective.txt</text>
+    </g>
+
+    <g class="line9">
+      <text x="0" y="190" class="text-white" font-weight="bold">"Building secure, decentralized solutions and organizing</text>
+      <text x="0" y="210" class="text-white" font-weight="bold">Code of Thrones Hackathon (March 2026). Let's build."</text>
+    </g>
+
+    <g class="line10">
+      <text x="0" y="240" class="text-cyan">raghul-cyber:~$</text>
+      <text x="130" y="240" class="text-white">ping -c 3 web3-security.net</text>
+    </g>
+
+    <g class="line11">
+      <text x="0" y="260" class="text-green">64 bytes from Chennai: icmp_seq=1 ttl=64 time=0.42 ms</text>
+      <text x="0" y="280" class="text-green">64 bytes from Chennai: icmp_seq=2 ttl=64 time=0.38 ms</text>
+      <text x="0" y="300" class="text-green">64 bytes from Chennai: icmp_seq=3 ttl=64 time=0.45 ms</text>
+      <text x="0" y="330" class="text-cyan">raghul-cyber:~$</text>
+      <rect x="130" y="318" width="10" height="15" class="cursor" />
+    </g>
+  </g>
+</svg>
