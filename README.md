@@ -32,7 +32,7 @@
       <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&labelColor=0D0E15" alt="GitHub Badge" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/raghul-r-c" target="_blank">
+    <a href="https://www.linkedin.com/in/raghul-r-c-483703331" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D0E15" alt="LinkedIn Badge" />
     </a>
     &nbsp;&nbsp;
@@ -252,7 +252,7 @@ raghul-cyber@security-kernel:~$ establish_handshake --channel=all
         </a>
       </td>
       <td align="center">
-        <a href="https://linkedin.com/in/raghul-r-c">
+        <a href="https://www.linkedin.com/in/raghul-r-c-483703331">
           <img src="https://img.shields.io/badge/LINKED_IN-Raghul%20R%20C-00ffcc?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Direct" />
         </a>
       </td>
