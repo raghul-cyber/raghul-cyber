@@ -19,7 +19,7 @@
 
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&height=50&lines=Blockchain+Developer+%F0%9F%94%97;Cyber+Security+Specialist+%F0%9F%9B%A1%EF%B8%8F;Smart+Contract+Architect+%E2%9A%A1;dApp+Architect+%E2%9A%A1;Hackathon+Champion+%F0%9F%8F%86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&height=50&lines=Blockchain+Developer+%F0%9F%94%97;Cyber+Security+Specialist+%F0%9F%9B%A1%EF%B8%8F;Smart+Contract+Architect+%E2%9A%A1;dApp+Architect+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <br>
