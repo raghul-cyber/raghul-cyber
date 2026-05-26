@@ -237,21 +237,6 @@ raghul-cyber@security-kernel:~$ query --metrics --user=raghul-cyber
 
 ⚡════════════════════════════════════════════════════════════════⚡
 
-## 📜 SECURITY_LOGS: ~hackathon_transcripts
-
-```bash
-raghul-cyber@security-kernel:~$ cat achievements_log.db
-```
-
-- 🏆 **Finalist @ Graph-e-thon 3.0**
-  - Handpicked from 200+ teams nationwide for solving complex smart contract & AI-security challenges under strict real-time conditions.
-- ⚡ **Lead Organizer: Code of Thrones (March 2026)**
-  - Directed operations for a high-intensity, 24-hour national hackathon spanning 7 cutting-edge technological tracks. Managed participant coordination, judging pipelines, and task formulation.
-- ✍️ **IEEE Editorial Contributor**
-  - Authored domain-specific materials and research reviews for the **IEEE WIE Madras Section Newsletter** (Vol. 1, Issue 1), promoting diversity and depth in technology topics.
-
-⚡════════════════════════════════════════════════════════════════⚡
-
 ## 📡 COMM_CHANNELS: ~contact_handshake
 
 ```bash
