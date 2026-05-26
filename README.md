@@ -203,27 +203,6 @@ _Unified national dashboard aggregating government databases to yield citizen-ce
   </tr>
 </table>
 
-<br><br>
-
-### 3️⃣ Nexus Care — Intelligent Healthcare Wearable
-_Ultra-low latency hardware IoT system streaming real-time vitals to AWS security pipelines._
-
-`ESP32` · `Bluetooth Low Energy (BLE)` · `AWS IoT Core` · `Flutter`
-
-<table>
-  <tr>
-    <td>🧬 <b>Multi-Sensor Cluster</b></td>
-    <td>Simultaneously tracks Heart Rate, Body Temperature, Accelerometer Data (Motion/Fall), and ECG waves.</td>
-  </tr>
-  <tr>
-    <td>⚡ <b>Sub-Second Pipeline</b></td>
-    <td>Configured sub-second latency telemetry streams using AWS IoT Core MQTT broker and Lambda routes.</td>
-  </tr>
-  <tr>
-    <td>🔒 <b>Encrypted Channels</b></td>
-    <td>Hardened firmware against BLE side-channel sniffing using custom key-rotation protocols.</td>
-  </tr>
-</table>
 
 </div>
 
